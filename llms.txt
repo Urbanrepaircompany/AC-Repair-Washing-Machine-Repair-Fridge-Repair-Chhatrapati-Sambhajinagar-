@@ -1,0 +1,23 @@
+# Urban Repair Company
+> Home appliance repair service in Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India. Repairs, services and installs air conditioners; repairs washing machines, refrigerators and other home appliances at the customer's home.
+
+Address: Survey No. B-13, Mondha Naka, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra
+Phone: +91 95798 68696
+Website: https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/
+
+## Services
+- [AC repair](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/ac-repair-chhatrapati-sambhajinagar)
+- [AC service](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/ac-service-chhatrapati-sambhajinagar)
+- [AC installation](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/ac-installation-chhatrapati-sambhajinagar)
+- [AC gas refilling](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/ac-gas-refill-chhatrapati-sambhajinagar)
+- [AC maintenance](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/ac-maintenance-chhatrapati-sambhajinagar)
+- [AC deep cleaning](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/ac-deep-cleaning-chhatrapati-sambhajinagar)
+- [Washing machine repair](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/washing-machine-repair-chhatrapati-sambhajinagar)
+- [Refrigerator repair](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/refrigerator-repair-chhatrapati-sambhajinagar)
+- [Fridge repair](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/fridge-repair-chhatrapati-sambhajinagar)
+- [Home appliance repair](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/home-appliance-repair-chhatrapati-sambhajinagar)
+
+## Guides
+- [Blog](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/blog)
+- [FAQ](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/faq)
+- [Service areas](https://urbanrepaircompany.github.io/AC-Repair-Washing-Machine-Repair-Fridge-Repair-Chhatrapati-Sambhajinagar-/areas)
